@@ -1,0 +1,4 @@
+module Dec1_2 where
+
+import Dec1
+

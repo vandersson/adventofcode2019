@@ -1,0 +1,33 @@
+
+./src/Dec1_2.hs,97
+module Dec1_2 Dec1_20,1
+moduleFuel moduleFuel4,5
+totalFuel totalFuel12,13
+main main15,16
+
+./src/Main.hs,37
+module Main Main0,1
+main main2,3
+
+./src/Dec1.hs,126
+module Dec1 Dec10,1
+fuelForModule fuelForModule7,8
+totalFuel totalFuel10,11
+readInput readInput13,14
+main main21,22
+
+./src/Dec2_1.hs,238
+module Dec2_1 Dec2_10,1
+readInput readInput8,9
+replaceAt replaceAt17,18
+replaceOutput replaceOutput22,23
+nextIndex nextIndex26,27
+valAt valAt29,30
+op op34,35
+add add38,39
+mult mult42,43
+eval eval46,47
+main main57,58
+
+./Setup.hs,15
+main main1,2

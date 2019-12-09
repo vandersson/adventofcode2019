@@ -1,0 +1,22 @@
+module Dec1_2 where
+
+import qualified Dec1 as One
+
+moduleFuel :: Int -> Int
+moduleFuel fuelWeight
+  | fuelWeigh > 0 = fuelweight + weightOfFuel $ One.fuelForModule fuelWeigth
+  
+    0
+
+sumFuels :: Int -> Int
+sumFuels fuel =
+  fuel + weightOfFuel fuel
+
+main :: IO ()
+main = do
+  input <- One.readInput  
+  print
+    $ sumFuels
+    $ One.totalFuel
+    $ input
+  
